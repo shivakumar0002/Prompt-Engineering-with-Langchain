@@ -1,0 +1,10 @@
+from dotenv import load_dotenv
+import os
+
+# Install python-dotenv if not already installed
+%pip install python-dotenv
+
+load_dotenv()
+
+# Access the API key from the environment
+api_key = os.getenv("OPENAI_API_KEY")

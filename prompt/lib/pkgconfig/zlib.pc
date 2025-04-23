@@ -1,0 +1,13 @@
+prefix=/Users/godipally.shivakumar/Desktop/Prompt-Engineering-langchain/prompt
+exec_prefix=/Users/godipally.shivakumar/Desktop/Prompt-Engineering-langchain/prompt
+libdir=/Users/godipally.shivakumar/Desktop/Prompt-Engineering-langchain/prompt/lib
+sharedlibdir=/Users/godipally.shivakumar/Desktop/Prompt-Engineering-langchain/prompt/lib
+includedir=/Users/godipally.shivakumar/Desktop/Prompt-Engineering-langchain/prompt/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
