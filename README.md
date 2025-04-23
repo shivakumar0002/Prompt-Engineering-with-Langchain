@@ -46,11 +46,6 @@ echo "OPENAI_API_KEY=your-api-key" > .env
 └── .env                    # Your OpenAI API key (excluded from version control)
 ```
 
-## 📌 Example Prompt
-```
-Question: What is LangChain and how is it used in prompt engineering?
-Answer: LangChain is a framework for developing applications powered by language models. It helps structure prompts, connect chains, and manage memory and tools effectively.
-```
 
 ## 📫 Contact
 For questions or contributions, feel free to reach out!
