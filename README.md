@@ -53,4 +53,4 @@ Answer: LangChain is a framework for developing applications powered by language
 For questions or contributions, feel free to reach out!
 
 ---
-**Made with ❤️ using LangChain + OpenAI**
+
