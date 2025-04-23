@@ -11,7 +11,7 @@ This project explores **Prompt Engineering** using the [LangChain](https://githu
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/prompt-engineering-langchain.git
+git clone https://github.com/your-username/Prompt-Engineering-with-Langchain.git
 cd prompt-engineering-langchain
 ```
 
