@@ -29,7 +29,8 @@ pip install langchain openai python-dotenv
 
 ### 4. Add Your OpenAI API Key
 set it directly in the script using `os.environ`.
-or 
+or  
+
 Create a `.env` file:
 ```bash
 echo "OPENAI_API_KEY=your-api-key" > .env
